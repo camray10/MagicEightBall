@@ -1,0 +1,23 @@
+.EightBall {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.EightBall p {
+    color: white;
+    text-align: center;
+    padding-top: 75px;
+
+}
+
+body{
+    background-color: rgb(51, 48, 48);
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
